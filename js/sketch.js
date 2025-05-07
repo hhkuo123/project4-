@@ -54,9 +54,9 @@ function draw() {
   
   //this loads a new page when your condition is met. The link goes into the quotes. Only works with relative internal links (e.g. page2.html) Won't work with external links (e.g. youtube.com)
   
-  if (timeToLoadNewPage){
-    window.location.href="link to next page here";
-  }
+  // if (timeToLoadNewPage){
+  //   window.location.href="index2.html";
+  // }
   
 }
 
