@@ -23,7 +23,7 @@ function setup() {
   textAlign(CENTER);
   textSize(30);
   colorMode(HSL);
-  createCanvas(800, 600);
+  createCanvas(windowWidth,windowHeight);
   imageMode(CENTER);
   textFont('Franklin Gothic');
  

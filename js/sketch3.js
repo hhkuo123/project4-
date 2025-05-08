@@ -1,7 +1,7 @@
 var timeToLoadNewPage = false;
 
 function setup() {
-  createCanvas(800, 600);
+  createCanvas(windowWidth,windowHeight);
   textAlign(CENTER);
   textSize(100);
   imageMode(CENTER);
